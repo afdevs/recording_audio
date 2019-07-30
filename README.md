@@ -1,10 +1,10 @@
-# A Blank PhoneGap App
+# School Project - Recording Audio
 
 ## Usage
 
-### PhoneGap CLI
+### For mobile (Compiling)
 
-    $ phonegap create my-app --template blank
+    Got to https://build.phonegap.com/ to compile it into Android or iOS.
 
 ### Desktop
 

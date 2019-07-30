@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.pg.recordaudio.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Record Audio</name>
+    <name>Recording Audio</name>
     <description>
-        A blank PhoneGap app.
+        School Project - Recording Audio
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="andrianavofredo@gmail.com" href="http://fredoandrianaivo.com">
+        Fredo Andrianaivo
     </author>
     <content src="index.html" />
     <access origin="*" />
